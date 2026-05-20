@@ -1,0 +1,22 @@
+# Node dependencies
+node_modules/
+
+# Vite build
+dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment files
+.env
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# Selenium temporary files
+*.tmp
