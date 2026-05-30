@@ -227,3 +227,6 @@ This project helped practice:
 - Managing login with localStorage
 - Creating admin and user roles
 - Writing Selenium UI tests
+## License
+
+This project is licensed under the MIT License.
